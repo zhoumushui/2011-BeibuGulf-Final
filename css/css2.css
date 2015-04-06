@@ -1,0 +1,116 @@
+body{
+	margin:0;
+	background-color:#CCC;
+}
+td{
+	font-size:12pt;
+	/* [disabled]border: thin solid #000; */
+
+}
+tr{
+	font-family:verdana;
+	font-size:9pt;
+	border: thin solid #000;
+	width: 100px;
+}
+table{
+	font-family:verdana;
+	font-size:9pt;
+	/* [disabled]border: 3px solid #000; */
+}
+input{
+	FONT-SIZE: 9pt;
+	LINE-HEIGHT: 15px;
+	background-color:#CCC;
+	FONT-FAMILY: Tahoma, Verdana, "宋体";
+	border: 1px solid #00F;
+	color: #06F;
+}
+
+a:link{
+	text-decoration:none;
+	color:#00F
+}
+a:visited{
+	text-decoration:none;
+	color:#00C
+}
+a:active{text-decoration:none;color:#224e67}
+a:hover{
+	text-decoration: underline;
+	color:#F00;
+	POSITION: relative;
+	TOP: 1px;
+}
+
+.aa a:link{text-decoration:none;color:#999}
+.aa a:visited{text-decoration:none;color:#999}
+.aa a:active{text-decoration:none;color:#999}
+.aa a:hover{ text-decoration: none;color:#317194;}
+
+.reda  a:link{text-decoration:none;color:#FF0000}
+.reda  a:visited{text-decoration:none;color:#FF0000}
+.reda  a:active{text-decoration:none;color:#FF0000}
+.reda  a:hover{ text-decoration: none;color:#FF0000;}
+
+.blacka  a:link{text-decoration:none;color:#000}
+.blacka  a:visited{text-decoration:none;color:#000}
+.blacka  a:active{text-decoration:none;color:#000}
+.blacka  a:hover{ text-decoration: none;color:#000;}
+
+.pp{
+	line-height: 1.6em;
+	text-indent: 20px;
+}
+p.dotted {
+	padding-top: 2px;
+	padding-bottom: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCCCCC;
+	line-height:22px;
+	width:200px;
+}
+.div1 {
+	height: 78px;
+	width: 77px;
+	border: thin solid #E8E9E4;
+	padding:10px;
+}
+form {
+	margin: 0px;
+	padding: 5px;
+}
+.title005 {
+	color: #09C;
+}
+.tishi005 {
+	color: #999;
+	font-size: 14px;
+}
+.STYLE1 {
+	color: #FFF;
+	text-align: left;
+}
+.abcd {
+	font-size: 9px;
+	color: #FF0;
+}
+.color520 {
+	color: #093;
+	padding: 5px;
+}
+#TabbedPanels1 .TabbedPanelsContentGroup .TabbedPanelsContent.TabbedPanelsContentVisible {
+	font-size: 16px;
+}
+#TabbedPanels1 .TabbedPanelsTabGroup .TabbedPanelsTab div {
+	font-size: 14px;
+	color: #393;
+}
+#TabbedPanels1 .TabbedPanelsTabGroup .TabbedPanelsTab {
+	font-size: 14px;
+	color: #393;
+}
+#pipipi {
+	background-color: #4384C6;
+}
